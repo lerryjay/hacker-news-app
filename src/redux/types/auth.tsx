@@ -1,0 +1,5 @@
+export const LOGINUSER = 'LOGINUSER';
+export const REGISTER = 'REGISTERAUTH';
+export const FORGOTPASSWORD = 'FORGOTPASSWORD';
+export const RESETPASSWORD = 'RESETPASSWORD';
+export const LOGOUTUSER = 'LOGOUTUSER';
